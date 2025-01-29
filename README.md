@@ -97,7 +97,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgments
 
-- DeepSeek for the R1 Distill LLaMA 70B model
-- Groq for providing fast inference API
+- Groq Cloud for the DeepSeek R1 Distill LLaMA 70B model
 - LangChain for the RAG framework
 - Streamlit for the web interface
