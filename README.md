@@ -2,6 +2,8 @@
 
 This repository demonstrates a Retrieval-Augmented Generation (RAG) implementation using DeepSeek R1 Distill LLaMA 70B model through Groq's high-performance inference API. The project includes both a command-line interface and a Streamlit web application for easy interaction.
 
+![DeepSeek R1 RAG Demo](https://github.com/lesteroliver911/deepseek-r1-groq-rag/blob/main/data/groq-deepseek.gif)
+
 ## Features
 
 - RAG implementation using DeepSeek R1 Distill LLaMA 70B
